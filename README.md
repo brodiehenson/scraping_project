@@ -3,6 +3,8 @@
 ## Aim of the project
 For this project, I scraped the U.S. National Parks page and each state and territory page listed under the main parks page. For each park listed on the U.S. National Parks page, I wanted to get its name, partial url, designation, city and state. For example, the code I have written will scrape this information for Yosemite National Park following what I have just described: Yosemite, /yose/, National Park, the Sierra Nevada, CA, California.
 
+The code used to write to the csv file is under the tab 'web_scraping_project.ipynb'.
+
 ## Steps in scraping
 The steps I took in scraping the U.S. National Parks page are listed below:
 
