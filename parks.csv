@@ -1,0 +1,649 @@
+park_name,park_url,park_type,park_city,park_state
+Birmingham Civil Rights,/bicr/,National Monument,AL ,Alabama
+Freedom Riders,/frri/,National Monument,AL ,Alabama
+Horseshoe Bend,/hobe/,National Military Park,"Daviston, AL ",Alabama
+Little River Canyon,/liri/,National Preserve,"Fort Payne, AL ",Alabama
+Natchez Trace,/natr/,Parkway,"the states of AL,MS,TN ",Alabama
+Natchez Trace,/natt/,National Scenic Trail,"Tupelo, AL,MS,TN ",Alabama
+Russell Cave,/ruca/,National Monument,"Bridgeport, AL ",Alabama
+Selma To Montgomery,/semo/,National Historic Trail,"Montgomery, Lowndes & Dallas Counties, AL ",Alabama
+Trail Of Tears,/trte/,National Historic Trail,"AL,AR,GA,IL,KY,MO,NC,OK,TN ",Alabama
+Tuskegee Airmen,/tuai/,National Historic Site,"Tuskegee, AL ",Alabama
+Tuskegee Institute,/tuin/,National Historic Site,"Tuskegee Institute, AL ",Alabama
+Alagnak,/alag/,Wild River,"King Salmon, AK ",Alaska
+Alaska Public Lands,/anch/,,"Anchorage, AK ",Alaska
+Aleutian Islands World War II,/aleu/,National Historic Area,"Unalaska/Dutch Harbor, AK ",Alaska
+Aniakchak,/ania/,National Monument & Preserve,"King Salmon, AK ",Alaska
+Bering Land Bridge,/bela/,National Preserve,"Nome, AK ",Alaska
+Cape Krusenstern,/cakr/,National Monument,"Kotzebue, AK ",Alaska
+Denali,/dena/,National Park & Preserve,"Denali Park, AK ",Alaska
+Gates Of The Arctic,/gaar/,National Park & Preserve,"Bettles, AK ",Alaska
+Glacier Bay,/glba/,National Park & Preserve,"Gustavus, AK ",Alaska
+Iñupiat Heritage Center,/inup/,,"Barrow , AK ",Alaska
+Katmai,/katm/,National Park & Preserve,"King Salmon, AK ",Alaska
+Kenai Fjords,/kefj/,National Park,"Seward, AK ",Alaska
+Klondike Gold Rush,/klgo/,National Historical Park,"Skagway, AK ",Alaska
+Kobuk Valley,/kova/,National Park,"Kotzebue, AK ",Alaska
+Lake Clark,/lacl/,National Park & Preserve,"Port Alsworth, AK ",Alaska
+Noatak,/noat/,National Preserve,"Kotzebue, AK ",Alaska
+Sitka,/sitk/,National Historical Park,"Sitka, AK ",Alaska
+Wrangell - St Elias,/wrst/,National Park & Preserve,"Copper Center, AK ",Alaska
+Yukon - Charley Rivers,/yuch/,National Preserve,"Eagle, AK ",Alaska
+National Park of American Samoa,/npsa/,,"Pago Pago, American Samoa, AS ",American Samoa
+Butterfield Overland,/buov/,National Historic Trail,"MO, AR, OK, TX, NM, AZ, CA ",Arizona
+Canyon de Chelly,/cach/,National Monument,"Chinle, AZ ",Arizona
+Casa Grande Ruins,/cagr/,National Monument,"Coolidge, AZ ",Arizona
+Chiricahua,/chir/,National Monument,"Willcox, AZ ",Arizona
+Coronado,/coro/,National Memorial,"Hereford, AZ ",Arizona
+Fort Bowie,/fobo/,National Historic Site,"Willcox, AZ ",Arizona
+Glen Canyon,/glca/,National Recreation Area,"Glen Canyon National Recreation Area, AZ,UT ",Arizona
+Grand Canyon,/grca/,National Park,"Grand Canyon, AZ ",Arizona
+Grand Canyon-Parashant,/para/,National Monument,"Northern Arizona, AZ ",Arizona
+Hubbell Trading Post,/hutr/,National Historic Site,"Ganado, AZ ",Arizona
+Juan Bautista de Anza,/juba/,National Historic Trail,"Nogales, AZ to San Francisco, CA, AZ,CA ",Arizona
+Lake Mead,/lake/,National Recreation Area,"the Mojave Desert, AZ,NV ",Arizona
+Montezuma Castle,/moca/,National Monument,"Camp Verde, AZ ",Arizona
+Navajo,/nava/,National Monument,"Black Mesa, AZ ",Arizona
+Old Spanish,/olsp/,National Historic Trail,"AZ,CA,CO,NV,NM,UT ",Arizona
+Organ Pipe Cactus,/orpi/,National Monument,"Ajo, AZ ",Arizona
+Petrified Forest,/pefo/,National Park,"Petrified Forest National Park, AZ ",Arizona
+Pipe Spring,/pisp/,National Monument,"Fredonia, AZ ",Arizona
+Saguaro,/sagu/,National Park,"Tucson, AZ ",Arizona
+Sunset Crater Volcano,/sucr/,National Monument,"Flagstaff, AZ ",Arizona
+Tonto,/tont/,National Monument,"Roosevelt, AZ ",Arizona
+Tumacácori,/tuma/,National Historical Park,"Tumacácori, AZ ",Arizona
+Tuzigoot,/tuzi/,National Monument,"Clarkdale, AZ ",Arizona
+Walnut Canyon,/waca/,National Monument,"Flagstaff, AZ ",Arizona
+Wupatki,/wupa/,National Monument,"Flagstaff, AZ ",Arizona
+Arkansas Post,/arpo/,National Memorial,"Gillett, AR ",Arkansas
+Buffalo,/buff/,National River,"Harrison and St. Joe, AR ",Arkansas
+Butterfield Overland,/buov/,National Historic Trail,"MO, AR, OK, TX, NM, AZ, CA ",Arkansas
+Fort Smith,/fosm/,National Historic Site,"Fort Smith, AR,OK ",Arkansas
+Hot Springs,/hosp/,National Park,"Hot Springs, AR ",Arkansas
+Little Rock Central High School,/chsc/,National Historic Site,"Little Rock, AR ",Arkansas
+Pea Ridge,/peri/,National Military Park,"Pea Ridge, AR ",Arkansas
+President William Jefferson Clinton Birthplace Home,/wicl/,National Historic Site,"Hope, AR ",Arkansas
+Trail Of Tears,/trte/,National Historic Trail,"AL,AR,GA,IL,KY,MO,NC,OK,TN ",Arkansas
+Alcatraz Island,/alca/,,"San Francisco, CA ",California
+Butterfield Overland,/buov/,National Historic Trail,"MO, AR, OK, TX, NM, AZ, CA ",California
+Cabrillo,/cabr/,National Monument,"San Diego, CA ",California
+California,/cali/,National Historic Trail,"Various States CA,CO,ID,KS,MO,NE,NV,OR,UT,WY ",California
+Castle Mountains,/camo/,National Monument,"Barstow, CA ",California
+César E. Chávez,/cech/,National Monument,CA ,California
+Channel Islands,/chis/,National Park,"Ventura, CA ",California
+Death Valley,/deva/,National Park,"Death Valley, CA,NV ",California
+Devils Postpile,/depo/,National Monument,"the Sierra Nevada near     Mammoth Lakes, CA ",California
+Eugene O'Neill,/euon/,National Historic Site,"Danville, CA ",California
+Fort Point,/fopo/,National Historic Site,"Presidio of San Francisco, CA ",California
+Golden Gate,/goga/,National Recreation Area,"San Francisco, CA ",California
+John Muir,/jomu/,National Historic Site,"Martinez, CA ",California
+Joshua Tree,/jotr/,National Park,"Southern California between I-10 and Hwy 62; headquarters in Twentynine Palms, CA ",California
+Juan Bautista de Anza,/juba/,National Historic Trail,"Nogales, AZ to San Francisco, CA, AZ,CA ",California
+Lassen Volcanic,/lavo/,National Park,"Mineral, CA ",California
+Lava Beds,/labe/,National Monument,"Tulelake, CA ",California
+Manzanar,/manz/,National Historic Site,"Independence, CA ",California
+Mojave,/moja/,National Preserve,"Southern California between I-15 and I-40; headquarters in Barstow, CA ",California
+Muir Woods,/muwo/,National Monument,"Mill Valley, CA ",California
+Old Spanish,/olsp/,National Historic Trail,"AZ,CA,CO,NV,NM,UT ",California
+Pinnacles,/pinn/,National Park,"Paicines, CA ",California
+Point Reyes,/pore/,National Seashore,"Point Reyes, CA ",California
+Pony Express,/poex/,National Historic Trail,"Various States CA,CO,KS,MO,NE,NV,UT,WY ",California
+Port Chicago Naval Magazine,/poch/,National Memorial,"Concord Naval Weapons Station, CA ",California
+Presidio of San Francisco,/prsf/,,"San Francisco, CA ",California
+Redwood,/redw/,National and State Parks,"Del Norte & Humboldt counties , CA ",California
+Rosie the Riveter WWII Home Front,/rori/,National Historical Park,"Richmond, CA ",California
+San Francisco Maritime,/safr/,National Historical Park,"San Francisco, CA ",California
+Santa Monica Mountains,/samo/,National Recreation Area,"Thousand Oaks, CA ",California
+Sequoia & Kings Canyon,/seki/,National Parks,"In the southern Sierra Nevada in Tulare and Fresno counties, CA ",California
+Tule Lake,/tule/,National Monument,"Tulelake, CA ",California
+Whiskeytown,/whis/,National Recreation Area,"Whiskeytown, CA ",California
+Yosemite,/yose/,National Park,"the Sierra Nevada, CA ",California
+Amache,/amch/,National Historic Site,,Colorado
+Bent's Old Fort,/beol/,National Historic Site,"La Junta, CO ",Colorado
+Black Canyon Of The Gunnison,/blca/,National Park,"Montrose, CO ",Colorado
+California,/cali/,National Historic Trail,"Various States CA,CO,ID,KS,MO,NE,NV,OR,UT,WY ",Colorado
+Colorado,/colm/,National Monument,"Fruita, CO ",Colorado
+Curecanti,/cure/,National Recreation Area,"Gunnison, CO ",Colorado
+Dinosaur,/dino/,National Monument,"Vernal, Utah & Dinosaur, Colorado, CO,UT ",Colorado
+Florissant Fossil Beds,/flfo/,National Monument,"Florissant, CO ",Colorado
+Great Sand Dunes,/grsa/,National Park & Preserve,"Mosca, CO ",Colorado
+Hovenweep,/hove/,National Monument,"Blanding, Utah & Cortez, Colorado, CO,UT ",Colorado
+Mesa Verde,/meve/,National Park,"Cortez and Mancos, CO ",Colorado
+Old Spanish,/olsp/,National Historic Trail,"AZ,CA,CO,NV,NM,UT ",Colorado
+Pony Express,/poex/,National Historic Trail,"Various States CA,CO,KS,MO,NE,NV,UT,WY ",Colorado
+Rocky Mountain,/romo/,National Park,"Estes Park and Grand Lake, CO ",Colorado
+Sand Creek Massacre,/sand/,National Historic Site,"Kiowa County, CO ",Colorado
+Santa Fe,/safe/,National Historic Trail,"CO,KS,MO,NM,OK ",Colorado
+Yucca House,/yuho/,National Monument,"Cortez, CO ",Colorado
+Appalachian,/appa/,National Scenic Trail,"Maine to Georgia, CT,GA,MA,MD,ME,NC,NH,NJ,NY,PA,TN,VA,VT,WV ",Connecticut
+Coltsville,/colt/,National Historical Park,"Hartford, CT ",Connecticut
+New England,/neen/,National Scenic Trail,"MA,CT ",Connecticut
+Washington-Rochambeau Revolutionary Route,/waro/,National Historic Trail,"MA,RI,CT,NY,NJ,PA,DE,MD,VA,DC ",Connecticut
+Weir Farm,/wefa/,National Historical Park,"Ridgefield & Wilton, CT ",Connecticut
+Captain John Smith Chesapeake,/cajo/,National Historic Trail,"Various States VA,MD,DE,DC,PA,NY ",Delaware
+Chesapeake Bay,/cbpo/,,"Chesapeake Bay Watershed, DC,DE,MD,NY,PA,VA,WV ",Delaware
+First State,/frst/,National Historical Park,"DE,PA ",Delaware
+Washington-Rochambeau Revolutionary Route,/waro/,National Historic Trail,"MA,RI,CT,NY,NJ,PA,DE,MD,VA,DC ",Delaware
+African American Civil War Memorial,/afam/,,"Washington, DC ",District of Columbia
+Anacostia,/anac/,Park,"Washington, DC ",District of Columbia
+Belmont-Paul Women's Equality,/bepa/,National Monument,"Washington, DC ",District of Columbia
+Capitol Hill Parks,/cahi/,,"Washington, DC ",District of Columbia
+Captain John Smith Chesapeake,/cajo/,National Historic Trail,"Various States VA,MD,DE,DC,PA,NY ",District of Columbia
+Carter G. Woodson Home,/cawo/,National Historic Site,"Washington, DC ",District of Columbia
+Chesapeake & Ohio Canal,/choh/,National Historical Park,"Potomac River, DC,MD,WV ",District of Columbia
+Chesapeake Bay,/cbpo/,,"Chesapeake Bay Watershed, DC,DE,MD,NY,PA,VA,WV ",District of Columbia
+Civil War Defenses of Washington,/cwdw/,,"Washington, DC,MD,VA ",District of Columbia
+Constitution Gardens,/coga/,,"Washington, DC ",District of Columbia
+Dwight D. Eisenhower,/ddem/,Memorial,DC ,District of Columbia
+Ford's Theatre,/foth/,,"Washington, DC ",District of Columbia
+Fort Dupont Park,/fodu/,,"Washington, DC ",District of Columbia
+Franklin Delano Roosevelt Memorial,/frde/,,"Washington, DC ",District of Columbia
+Frederick Douglass,/frdo/,National Historic Site,"Washington, DC ",District of Columbia
+George Washington,/gwmp/,Memorial Parkway,"DC,MD,VA ",District of Columbia
+Kenilworth Park & Aquatic Gardens,/keaq/,,"Washington, DC ",District of Columbia
+Korean War Veterans Memorial,/kowa/,,"Washington, DC ",District of Columbia
+LBJ Memorial Grove on the Potomac,/lyba/,,"Washington, DC ",District of Columbia
+Lincoln Memorial,/linc/,,"Washington, DC ",District of Columbia
+"Martin Luther King, Jr. Memorial",/mlkm/,,"Washington, DC ",District of Columbia
+Mary McLeod Bethune Council House,/mamc/,"National Historic Site
+","Washington, DC ",District of Columbia
+National Capital Parks-East,/nace/,,"Washington, DC ",District of Columbia
+National Mall and Memorial Parks,/nama/,,"Washington, DC ",District of Columbia
+Pennsylvania Avenue,/paav/,,"Washington, DC ",District of Columbia
+Potomac Heritage,/pohe/,National Scenic Trail,"the corridor between the Chesapeake Bay and the Allegheny Highlands, DC,MD,PA,VA ",District of Columbia
+Rock Creek,/rocr/,Park,"Washington, DC ",District of Columbia
+Star-Spangled Banner,/stsp/,National Historic Trail,"DC,MD,VA ",District of Columbia
+The White House and President's Park,/whho/,,"Washington, DC ",District of Columbia
+Theodore Roosevelt Island,/this/,,"Washington, DC ",District of Columbia
+Thomas Jefferson Memorial,/thje/,,"Washington, DC ",District of Columbia
+Vietnam Veterans Memorial,/vive/,,"Washington, DC ",District of Columbia
+Washington Monument,/wamo/,,"Washington, DC ",District of Columbia
+Washington-Rochambeau Revolutionary Route,/waro/,National Historic Trail,"MA,RI,CT,NY,NJ,PA,DE,MD,VA,DC ",District of Columbia
+World War I Memorial,/wwim/,,"Washington, DC ",District of Columbia
+World War II Memorial,/wwii/,,"
+Washington, DC ",District of Columbia
+Big Cypress,/bicy/,National Preserve,"Ochopee, FL ",Florida
+Biscayne,/bisc/,National Park,"Miami, Key Biscayne & Homestead, FL ",Florida
+Canaveral,/cana/,National Seashore," Titusville and New Smyrna Beach, FL ",Florida
+Castillo de San Marcos,/casa/,National Monument,"St. Augustine, FL ",Florida
+De Soto,/deso/,National Memorial,"Bradenton, FL ",Florida
+Dry Tortugas,/drto/,National Park,"Key West, FL ",Florida
+Everglades,/ever/,National Park,"Miami, Naples, and Homestead, FL ",Florida
+Fort Caroline,/foca/,National Memorial,"the Timucuan Preserve; Jacksonville, FL ",Florida
+Fort Matanzas,/foma/,National Monument,"St. Augustine, FL ",Florida
+Gulf Islands,/guis/,National Seashore,"Gulf Breeze, Florida  and Ocean Springs, Mississippi            , FL,MS ",Florida
+Timucuan,/timu/,Ecological & Historic Preserve,"Jacksonville, FL ",Florida
+Andersonville,/ande/,National Historic Site,"Andersonville, GA ",Georgia
+Appalachian,/appa/,National Scenic Trail,"Maine to Georgia, CT,GA,MA,MD,ME,NC,NH,NJ,NY,PA,TN,VA,VT,WV ",Georgia
+Chattahoochee River,/chat/,National Recreation Area,"Atlanta, GA ",Georgia
+Chickamauga & Chattanooga,/chch/,National Military Park,"Fort Oglethorpe, GA,TN ",Georgia
+Cumberland Island,/cuis/,National Seashore,"Saint Marys, GA ",Georgia
+Fort Frederica,/fofr/,National Monument,"St. Simons Island, GA ",Georgia
+Fort Pulaski,/fopu/,National Monument,"Savannah, GA ",Georgia
+Jimmy Carter,/jica/,National Historical Park,"Plains, GA ",Georgia
+Kennesaw Mountain,/kemo/,National Battlefield Park,"Kennesaw, GA ",Georgia
+"Martin Luther King, Jr.",/malu/,National Historical Park,"Atlanta, GA ",Georgia
+Ocmulgee Mounds,/ocmu/,National Historical Park,"Macon, GA ",Georgia
+Trail Of Tears,/trte/,National Historic Trail,"AL,AR,GA,IL,KY,MO,NC,OK,TN ",Georgia
+War In The Pacific,/wapa/,National Historical Park,"Asan, GU ",Guam
+Ala Kahakai,/alka/,National Historic Trail,"the Island of Hawaii, HI ",Hawaii
+Haleakalā,/hale/,National Park,"Kula, Maui, HI ",Hawaii
+Hawaiʻi Volcanoes,/havo/,National Park,"Hilo, HI ",Hawaii
+Honouliuli,/hono/,National Historic Site,HI ,Hawaii
+Kalaupapa,/kala/,National Historical Park,"Kalaupapa, HI ",Hawaii
+Kaloko-Honokōhau,/kaho/,National Historical Park,"Kailua-Kona, HI ",Hawaii
+Pearl Harbor,/valr/,National Memorial,"Honolulu, HI ",Hawaii
+Puʻuhonua o Hōnaunau,/puho/,National Historical Park,"Honaunau, HI ",Hawaii
+Puʻukoholā Heiau,/puhe/,National Historic Site,"Kawaihae, HI ",Hawaii
+California,/cali/,National Historic Trail,"Various States CA,CO,ID,KS,MO,NE,NV,OR,UT,WY ",Idaho
+City Of Rocks,/ciro/,National Reserve,"Almo, ID ",Idaho
+Craters Of The Moon,/crmo/,National Monument & Preserve,"Arco, Carey and Rupert , ID ",Idaho
+Hagerman Fossil Beds,/hafo/,National Monument,"Hagerman, ID ",Idaho
+Ice Age Floods,/iafl/,National Geologic Trail,"WA,OR,ID,MT ",Idaho
+Lewis & Clark,/lecl/,National Historic Trail,"Sixteen States: IA,ID,IL,IN,KS,KY,MO,MT,NE,ND,OH,OR,PA,SD,WA,WV ",Idaho
+Minidoka,/miin/,National Historic Site,"Jerome, ID,WA ",Idaho
+Nez Perce,/nepe/,National Historical Park,"four states ID,MT,OR,WA ",Idaho
+Oregon,/oreg/,National Historic Trail,"Various States ID,KS,MO,NE,OR,WA,WY ",Idaho
+Yellowstone,/yell/,National Park,"Yellowstone National Park, ID,MT,WY ",Idaho
+Emmett Till and Mamie Till-Mobley,/till/,National Monument,"IL,MS ",Illinois
+Lewis & Clark,/lecl/,National Historic Trail,"Sixteen States: IA,ID,IL,IN,KS,KY,MO,MT,NE,ND,OH,OR,PA,SD,WA,WV ",Illinois
+Lincoln Home,/liho/,National Historic Site,"Springfield, IL ",Illinois
+Mormon Pioneer,/mopi/,National Historic Trail,"Various States IL,IA,NE,UT,WY ",Illinois
+New Philadelphia,/neph/,National Historic Site,IL ,Illinois
+Pullman,/pull/,National Historical Park,"Chicago, IL ",Illinois
+Springfield 1908 Race Riot,/spra/,National Monument,IL ,Illinois
+Trail Of Tears,/trte/,National Historic Trail,"AL,AR,GA,IL,KY,MO,NC,OK,TN ",Illinois
+George Rogers Clark,/gero/,National Historical Park,"Vincennes, IN ",Indiana
+Indiana Dunes,/indu/,National Park,"Porter, IN ",Indiana
+Lewis & Clark,/lecl/,National Historic Trail,"Sixteen States: IA,ID,IL,IN,KS,KY,MO,MT,NE,ND,OH,OR,PA,SD,WA,WV ",Indiana
+Lincoln Boyhood,/libo/,National Memorial,"Lincoln City, IN ",Indiana
+Effigy Mounds,/efmo/,National Monument,"Harpers Ferry, IA ",Iowa
+Herbert Hoover,/heho/,National Historic Site,"West Branch, IA ",Iowa
+Lewis & Clark,/lecl/,National Historic Trail,"Sixteen States: IA,ID,IL,IN,KS,KY,MO,MT,NE,ND,OH,OR,PA,SD,WA,WV ",Iowa
+Mormon Pioneer,/mopi/,National Historic Trail,"Various States IL,IA,NE,UT,WY ",Iowa
+Brown v. Board of Education,/brvb/,National Historical Park,"Topeka, KS ",Kansas
+California,/cali/,National Historic Trail,"Various States CA,CO,ID,KS,MO,NE,NV,OR,UT,WY ",Kansas
+Fort Larned,/fols/,National Historic Site,"Larned, KS ",Kansas
+Fort Scott,/fosc/,National Historic Site,"Fort Scott, KS ",Kansas
+Lewis & Clark,/lecl/,National Historic Trail,"Sixteen States: IA,ID,IL,IN,KS,KY,MO,MT,NE,ND,OH,OR,PA,SD,WA,WV ",Kansas
+Nicodemus,/nico/,National Historic Site,"Nicodemus, KS ",Kansas
+Oregon,/oreg/,National Historic Trail,"Various States ID,KS,MO,NE,OR,WA,WY ",Kansas
+Pony Express,/poex/,National Historic Trail,"Various States CA,CO,KS,MO,NE,NV,UT,WY ",Kansas
+Santa Fe,/safe/,National Historic Trail,"CO,KS,MO,NM,OK ",Kansas
+Tallgrass Prairie,/tapr/,National Preserve,"Strong City, KS ",Kansas
+Abraham Lincoln Birthplace,/abli/,National Historical Park,"Hodgenville, KY ",Kentucky
+Big South Fork,/biso/,National River & Recreation Area,"Oneida, KY,TN ",Kentucky
+Camp Nelson,/cane/,National Monument,KY ,Kentucky
+Cumberland Gap,/cuga/,National Historical Park,"Middlesboro, KY,TN,VA ",Kentucky
+Fort Donelson,/fodo/,National Battlefield,"Dover, KY,TN ",Kentucky
+Lewis & Clark,/lecl/,National Historic Trail,"Sixteen States: IA,ID,IL,IN,KS,KY,MO,MT,NE,ND,OH,OR,PA,SD,WA,WV ",Kentucky
+Mammoth Cave,/maca/,National Park,"Mammoth Cave, KY ",Kentucky
+Mill Springs Battlefield,/misp/,National Monument,KY ,Kentucky
+Trail Of Tears,/trte/,National Historic Trail,"AL,AR,GA,IL,KY,MO,NC,OK,TN ",Kentucky
+Cane River Creole,/cari/,National Historical Park,"Natchez, LA ",Louisiana
+El Camino Real de los Tejas,/elte/,National Historic Trail,"Various States TX,LA ",Louisiana
+Jean Lafitte,/jela/,National Historical Park and Preserve,"New Orleans, LA ",Louisiana
+New Orleans Jazz,/jazz/,National Historical Park,"New Orleans, LA ",Louisiana
+Poverty Point,/popo/,National Monument,"Epps, LA ",Louisiana
+Vicksburg,/vick/,National Military Park,"Vicksburg, MS,LA ",Louisiana
+Acadia,/acad/,National Park,"Bar Harbor, ME ",Maine
+Appalachian,/appa/,National Scenic Trail,"Maine to Georgia, CT,GA,MA,MD,ME,NC,NH,NJ,NY,PA,TN,VA,VT,WV ",Maine
+Frances Perkins,/frpe/,National Monument,ME ,Maine
+Katahdin Woods and Waters,/kaww/,National Monument,ME ,Maine
+Maine Acadian Culture,/maac/,,"St. John Valley, ME ",Maine
+Roosevelt Campobello,/roca/,International Park,"Lubec
+, ME ",Maine
+Saint Croix Island,/sacr/,International Historic Site,"Calais, ME ",Maine
+Antietam,/anti/,National Battlefield,"Sharpsburg, MD ",Maryland
+Appalachian,/appa/,National Scenic Trail,"Maine to Georgia, CT,GA,MA,MD,ME,NC,NH,NJ,NY,PA,TN,VA,VT,WV ",Maryland
+Assateague Island,/asis/,National Seashore,"MD,VA ",Maryland
+Baltimore-Washington,/bawa/,Parkway,"Washington D.C. and Baltimore, Maryland, MD ",Maryland
+Captain John Smith Chesapeake,/cajo/,National Historic Trail,"Various States VA,MD,DE,DC,PA,NY ",Maryland
+Catoctin Mountain,/cato/,Park,"Thurmont, MD ",Maryland
+Chesapeake & Ohio Canal,/choh/,National Historical Park,"Potomac River, DC,MD,WV ",Maryland
+Chesapeake Bay,/cbpo/,,"Chesapeake Bay Watershed, DC,DE,MD,NY,PA,VA,WV ",Maryland
+Civil War Defenses of Washington,/cwdw/,,"Washington, DC,MD,VA ",Maryland
+Clara Barton,/clba/,National Historic Site,"Glen Echo , MD ",Maryland
+Fort Foote,/fofo/,Park,"Oxon Hill, MD ",Maryland
+Fort McHenry,/fomc/,National Monument and Historic Shrine,"Baltimore, MD ",Maryland
+Fort Washington,/fowa/,Park,"Fort Washington, MD ",Maryland
+George Washington,/gwmp/,Memorial Parkway,"DC,MD,VA ",Maryland
+Glen Echo,/glec/,Park,"Glen Echo, MD ",Maryland
+Greenbelt,/gree/,Park,"Greenbelt, MD ",Maryland
+Hampton,/hamp/,National Historic Site,"Towson, MD ",Maryland
+Harmony Hall,/haha/,,"Prince George's County, MD ",Maryland
+Harpers Ferry,/hafe/,National Historical Park,"Harpers Ferry, WV,VA,MD ",Maryland
+Harriet Tubman Underground Railroad,/hatu/,National Historical Park,"Cambridge, MD ",Maryland
+Monocacy,/mono/,National Battlefield,"Frederick, MD ",Maryland
+Oxon Cove  Park & Oxon Hill Farm,/oxhi/,,"Oxon Hill, MD ",Maryland
+Piscataway,/pisc/,Park,"Accokeek., MD ",Maryland
+Potomac Heritage,/pohe/,National Scenic Trail,"the corridor between the Chesapeake Bay and the Allegheny Highlands, DC,MD,PA,VA ",Maryland
+Star-Spangled Banner,/stsp/,National Historic Trail,"DC,MD,VA ",Maryland
+Thomas Stone,/thst/,National Historic Site,"Port Tobacco, MD ",Maryland
+Washington-Rochambeau Revolutionary Route,/waro/,National Historic Trail,"MA,RI,CT,NY,NJ,PA,DE,MD,VA,DC ",Maryland
+Adams,/adam/,National Historical Park,"Quincy, MA ",Massachusetts
+Appalachian,/appa/,National Scenic Trail,"Maine to Georgia, CT,GA,MA,MD,ME,NC,NH,NJ,NY,PA,TN,VA,VT,WV ",Massachusetts
+Blackstone River Valley,/blrv/,National Historical Park,"RI,MA ",Massachusetts
+Boston,/bost/,National Historical Park,"Boston, MA ",Massachusetts
+Boston African American,/boaf/,National Historic Site,"Boston, MA ",Massachusetts
+Boston Harbor Islands,/boha/,National Recreation Area,"Boston, MA ",Massachusetts
+Cape Cod,/caco/,National Seashore,"Wellfleet, MA ",Massachusetts
+Frederick Law Olmsted,/frla/,National Historic Site,"Brookline, MA ",Massachusetts
+John Fitzgerald Kennedy,/jofi/,National Historic Site,"Brookline, MA ",Massachusetts
+Longfellow House Washington's Headquarters,/long/,National Historic Site,"Cambridge, MA ",Massachusetts
+Lowell,/lowe/,National Historical Park,"Lowell, MA ",Massachusetts
+Minute Man,/mima/,National Historical Park,"Concord, Lincoln, Lexington, MA ",Massachusetts
+New Bedford Whaling,/nebe/,National Historical Park,"New Bedford, MA ",Massachusetts
+New England,/neen/,National Scenic Trail,"MA,CT ",Massachusetts
+Salem Maritime,/sama/,National Historic Site,"Salem, MA ",Massachusetts
+Saugus Iron Works,/sair/,National Historic Site,"Saugus, MA ",Massachusetts
+Springfield Armory,/spar/,National Historic Site,"Springfield, MA ",Massachusetts
+Washington-Rochambeau Revolutionary Route,/waro/,National Historic Trail,"MA,RI,CT,NY,NJ,PA,DE,MD,VA,DC ",Massachusetts
+Isle Royale,/isro/,National Park,"Houghton, MI ",Michigan
+Keweenaw,/kewe/,National Historical Park,"Calumet, MI ",Michigan
+North Country,/noco/,National Scenic Trail,"Eight States - Vermont to North Dakota MI,MN,ND,NY,OH,PA,VT,WI ",Michigan
+Pictured Rocks,/piro/,National Lakeshore,"Munising, Grand Marais, MI ",Michigan
+River Raisin,/rira/,National Battlefield Park,MI ,Michigan
+Sleeping Bear Dunes,/slbe/,National Lakeshore,"Empire, MI ",Michigan
+Grand Portage,/grpo/,National Monument,"Grand Portage, MN ",Minnesota
+Mississippi,/miss/,National River & Recreation Area,"Twin Cities Metropolitan Area, MN ",Minnesota
+North Country,/noco/,National Scenic Trail,"Eight States - Vermont to North Dakota MI,MN,ND,NY,OH,PA,VT,WI ",Minnesota
+Pipestone,/pipe/,National Monument,"Pipestone, MN ",Minnesota
+Saint Croix,/sacn/,National Scenic Riverway,"Saint Croix Falls, WI,MN ",Minnesota
+Voyageurs,/voya/,National Park,"International Falls, Kabetogama, Ash River, and Crane Lake, MN ",Minnesota
+Brices Cross Roads,/brcr/,National Battlefield Site,"Baldwyn, MS ",Mississippi
+Emmett Till and Mamie Till-Mobley,/till/,National Monument,"IL,MS ",Mississippi
+Gulf Islands,/guis/,National Seashore,"Gulf Breeze, Florida  and Ocean Springs, Mississippi            , FL,MS ",Mississippi
+Medgar and Myrlie Evers Home,/memy/,National Monument,MS ,Mississippi
+Natchez,/natc/,National Historical Park,"Natchez, MS ",Mississippi
+Natchez Trace,/natr/,Parkway,"the states of AL,MS,TN ",Mississippi
+Natchez Trace,/natt/,National Scenic Trail,"Tupelo, AL,MS,TN ",Mississippi
+Shiloh,/shil/,National Military Park,"Shiloh, TN,MS ",Mississippi
+Tupelo,/tupe/,National Battlefield,"Tupelo, MS ",Mississippi
+Vicksburg,/vick/,National Military Park,"Vicksburg, MS,LA ",Mississippi
+Butterfield Overland,/buov/,National Historic Trail,"MO, AR, OK, TX, NM, AZ, CA ",Missouri
+California,/cali/,National Historic Trail,"Various States CA,CO,ID,KS,MO,NE,NV,OR,UT,WY ",Missouri
+Gateway Arch,/jeff/,National Park,"St. Louis, MO ",Missouri
+George Washington Carver,/gwca/,National Monument,"Diamond, MO ",Missouri
+Harry S Truman,/hstr/,National Historic Site,"Independence and Grandview, MO ",Missouri
+Lewis & Clark,/lecl/,National Historic Trail,"Sixteen States: IA,ID,IL,IN,KS,KY,MO,MT,NE,ND,OH,OR,PA,SD,WA,WV ",Missouri
+Oregon,/oreg/,National Historic Trail,"Various States ID,KS,MO,NE,OR,WA,WY ",Missouri
+Ozark,/ozar/,National Scenic Riverways,"Van Buren,Eminence,Salem,Winona, MO ",Missouri
+Pony Express,/poex/,National Historic Trail,"Various States CA,CO,KS,MO,NE,NV,UT,WY ",Missouri
+Santa Fe,/safe/,National Historic Trail,"CO,KS,MO,NM,OK ",Missouri
+Ste. Geneviève,/stge/,National Historical Park,MO ,Missouri
+Trail Of Tears,/trte/,National Historic Trail,"AL,AR,GA,IL,KY,MO,NC,OK,TN ",Missouri
+Ulysses S Grant,/ulsg/,National Historic Site,"St. Louis, MO ",Missouri
+Wilson's Creek,/wicr/,National Battlefield,"Republic, MO ",Missouri
+Big Hole,/biho/,National Battlefield,"Wisdom, MT ",Montana
+Bighorn Canyon,/bica/,National Recreation Area,"Fort Smith, MT,WY ",Montana
+Fort Union Trading Post,/fous/,National Historic Site,"Two States: MT,ND ",Montana
+Glacier,/glac/,National Park,"Northwest Montana, MT ",Montana
+Grant-Kohrs Ranch,/grko/,National Historic Site,"Deer Lodge, MT ",Montana
+Ice Age Floods,/iafl/,National Geologic Trail,"WA,OR,ID,MT ",Montana
+Lewis & Clark,/lecl/,National Historic Trail,"Sixteen States: IA,ID,IL,IN,KS,KY,MO,MT,NE,ND,OH,OR,PA,SD,WA,WV ",Montana
+Little Bighorn Battlefield,/libi/,National Monument,"Crow Agency, MT ",Montana
+Nez Perce,/nepe/,National Historical Park,"four states ID,MT,OR,WA ",Montana
+Yellowstone,/yell/,National Park,"Yellowstone National Park, ID,MT,WY ",Montana
+Agate Fossil Beds,/agfo/,National Monument,"Harrison, NE ",Nebraska
+California,/cali/,National Historic Trail,"Various States CA,CO,ID,KS,MO,NE,NV,OR,UT,WY ",Nebraska
+Homestead,/home/,National Historical Park,"Beatrice, NE ",Nebraska
+Lewis & Clark,/lecl/,National Historic Trail,"Sixteen States: IA,ID,IL,IN,KS,KY,MO,MT,NE,ND,OH,OR,PA,SD,WA,WV ",Nebraska
+Missouri,/mnrr/,National Recreational River,"Yankton, SD,NE ",Nebraska
+Mormon Pioneer,/mopi/,National Historic Trail,"Various States IL,IA,NE,UT,WY ",Nebraska
+Niobrara,/niob/,National Scenic River,"Valentine, NE ",Nebraska
+Oregon,/oreg/,National Historic Trail,"Various States ID,KS,MO,NE,OR,WA,WY ",Nebraska
+Pony Express,/poex/,National Historic Trail,"Various States CA,CO,KS,MO,NE,NV,UT,WY ",Nebraska
+Scotts Bluff,/scbl/,National Monument,"Gering, NE ",Nebraska
+California,/cali/,National Historic Trail,"Various States CA,CO,ID,KS,MO,NE,NV,OR,UT,WY ",Nevada
+Death Valley,/deva/,National Park,"Death Valley, CA,NV ",Nevada
+Great Basin,/grba/,National Park,"Baker, NV ",Nevada
+Lake Mead,/lake/,National Recreation Area,"the Mojave Desert, AZ,NV ",Nevada
+Old Spanish,/olsp/,National Historic Trail,"AZ,CA,CO,NV,NM,UT ",Nevada
+Pony Express,/poex/,National Historic Trail,"Various States CA,CO,KS,MO,NE,NV,UT,WY ",Nevada
+Tule Springs Fossil Beds,/tusk/,National Monument,"NV, NV ",Nevada
+Appalachian,/appa/,National Scenic Trail,"Maine to Georgia, CT,GA,MA,MD,ME,NC,NH,NJ,NY,PA,TN,VA,VT,WV ",New Hampshire
+Saint-Gaudens,/saga/,National Historical Park,"Cornish, NH ",New Hampshire
+Appalachian,/appa/,National Scenic Trail,"Maine to Georgia, CT,GA,MA,MD,ME,NC,NH,NJ,NY,PA,TN,VA,VT,WV ",New Jersey
+Delaware Water Gap,/dewa/,National Recreation Area,"HQ in Bushkill PA; the park is along the Delaware River in the states of NJ,PA ",New Jersey
+Ellis Island,/elis/,Part of Statue of Liberty National Monument,"NJ,NY ",New Jersey
+Gateway,/gate/,National Recreation Area,"Brooklyn, Queens & Staten Island, New York and Monmouth County, New Jersey, NY,NJ ",New Jersey
+Great Egg Harbor River,/greg/,,NJ ,New Jersey
+Lower Delaware,/lode/,National Wild and Scenic River,"PA,NJ ",New Jersey
+Morristown,/morr/,National Historical Park,"Morristown, NJ ",New Jersey
+New Jersey Pinelands,/pine/,National Reserve,"Southeastern New Jersey, NJ ",New Jersey
+Paterson Great Falls,/pagr/,National Historical Park,"Paterson, NJ ",New Jersey
+Thomas Edison,/edis/,National Historical Park,"West Orange, NJ ",New Jersey
+Washington-Rochambeau Revolutionary Route,/waro/,National Historic Trail,"MA,RI,CT,NY,NJ,PA,DE,MD,VA,DC ",New Jersey
+Aztec Ruins,/azru/,National Monument,"Aztec, NM ",New Mexico
+Bandelier,/band/,National Monument,"Los Alamos, NM ",New Mexico
+Butterfield Overland,/buov/,National Historic Trail,"MO, AR, OK, TX, NM, AZ, CA ",New Mexico
+Capulin Volcano,/cavo/,National Monument,"Capulin, NM ",New Mexico
+Carlsbad Caverns,/cave/,National Park,"Carlsbad, NM ",New Mexico
+Chaco Culture,/chcu/,National Historical Park,"Nageezi, NM ",New Mexico
+El Camino Real de Tierra Adentro,/elca/,National Historic Trail,"NM,TX ",New Mexico
+El Malpais,/elma/,National Monument,"Grants, NM ",New Mexico
+El Morro,/elmo/,National Monument,"Ramah, NM ",New Mexico
+Fort Union,/foun/,National Monument,"Watrous, NM ",New Mexico
+Gila Cliff Dwellings,/gicl/,National Monument,"Silver City, NM ",New Mexico
+Manhattan Project,/mapr/,National Historical Park,"Manhattan Project National Historical Park, NM,WA,TN ",New Mexico
+Old Spanish,/olsp/,National Historic Trail,"AZ,CA,CO,NV,NM,UT ",New Mexico
+Pecos,/peco/,National Historical Park,"Pecos, NM ",New Mexico
+Petroglyph,/petr/,National Monument,"Albuquerque, NM ",New Mexico
+Salinas Pueblo Missions,/sapu/,National Monument,"Mountainair, NM ",New Mexico
+Santa Fe,/safe/,National Historic Trail,"CO,KS,MO,NM,OK ",New Mexico
+Valles Caldera,/vall/,National Preserve,"Jemez Springs, NM ",New Mexico
+White Sands,/whsa/,National Park,"Alamogordo, NM ",New Mexico
+African Burial Ground,/afbg/,National Monument,NY ,New York
+Appalachian,/appa/,National Scenic Trail,"Maine to Georgia, CT,GA,MA,MD,ME,NC,NH,NJ,NY,PA,TN,VA,VT,WV ",New York
+Captain John Smith Chesapeake,/cajo/,National Historic Trail,"Various States VA,MD,DE,DC,PA,NY ",New York
+Castle Clinton,/cacl/,National Monument,"New York, NY ",New York
+Chesapeake Bay,/cbpo/,,"Chesapeake Bay Watershed, DC,DE,MD,NY,PA,VA,WV ",New York
+Eleanor Roosevelt,/elro/,National Historic Site,"Hyde Park, NY ",New York
+Ellis Island,/elis/,Part of Statue of Liberty National Monument,"NJ,NY ",New York
+Federal Hall,/feha/,National Memorial,"New York, NY ",New York
+Fire Island,/fiis/,National Seashore,"Patchogue, NY ",New York
+Fort Stanwix,/fost/,National Monument,"Rome, NY ",New York
+Gateway,/gate/,National Recreation Area,"Brooklyn, Queens & Staten Island, New York and Monmouth County, New Jersey, NY,NJ ",New York
+General Grant,/gegr/,National Memorial,"New York, NY ",New York
+Governors Island,/gois/,National Monument,"New York, NY ",New York
+Hamilton Grange,/hagr/,National Memorial,"New York, NY ",New York
+Harriet Tubman,/hart/,National Historical Park,"Auburn, NY ",New York
+Home Of Franklin D Roosevelt,/hofr/,National Historic Site,"Hyde Park, NY ",New York
+Lower East Side Tenement Museum,/loea/,National Historic Site,"Manhattan, NY ",New York
+Martin Van Buren,/mava/,National Historic Site,"Kinderhook, NY ",New York
+National Parks of New York Harbor,/npnh/,,"Northern New Jersey and New York City, NY ",New York
+North Country,/noco/,National Scenic Trail,"Eight States - Vermont to North Dakota MI,MN,ND,NY,OH,PA,VT,WI ",New York
+Sagamore Hill,/sahi/,National Historic Site,"Oyster Bay, NY ",New York
+Saint Paul's Church,/sapa/,National Historic Site,"Mount Vernon, NY - 897 South Columbus Avenue, NY ",New York
+Saratoga,/sara/,National Historical Park,"Stillwater, NY ",New York
+Statue Of Liberty,/stli/,National Monument,"Ellis Island, NY ",New York
+Stonewall,/ston/,National Monument,NY ,New York
+Theodore Roosevelt Birthplace,/thrb/,National Historic Site,"New York, NY ",New York
+Theodore Roosevelt Inaugural,/thri/,National Historic Site,"Buffalo, NY ",New York
+Thomas Cole,/thco/,National Historic Site,"Catskill, NY ",New York
+Upper Delaware,/upde/,Scenic & Recreational River,"Pike and Wayne (PA) and Delaware, Orange and Sullivan (NY) counties along the Delaware River, NY,PA ",New York
+Vanderbilt Mansion,/vama/,National Historic Site,"Hyde Park, NY ",New York
+Washington-Rochambeau Revolutionary Route,/waro/,National Historic Trail,"MA,RI,CT,NY,NJ,PA,DE,MD,VA,DC ",New York
+Women's Rights,/wori/,National Historical Park,"Seneca Falls, NY ",New York
+Appalachian,/appa/,National Scenic Trail,"Maine to Georgia, CT,GA,MA,MD,ME,NC,NH,NJ,NY,PA,TN,VA,VT,WV ",North Carolina
+Blue Ridge,/blri/,Parkway,"Blue Ridge Mountains of Virginia and North Carolina, NC,VA ",North Carolina
+Cape Hatteras,/caha/,National Seashore,"Nags Head, Buxton, Ocracoke, NC ",North Carolina
+Cape Lookout,/calo/,National Seashore,"Harkers Island, NC ",North Carolina
+Carl Sandburg Home,/carl/,National Historic Site,"Flat Rock, NC ",North Carolina
+Fort Raleigh,/fora/,National Historic Site,"Manteo, NC ",North Carolina
+Great Smoky Mountains,/grsm/,National Park,"the states of NC,TN ",North Carolina
+Guilford Courthouse,/guco/,National Military Park,"Greensboro, NC ",North Carolina
+Moores Creek,/mocr/,National Battlefield,"Currie, NC ",North Carolina
+Overmountain Victory,/ovvi/,National Historic Trail,"NC,SC,TN,VA ",North Carolina
+Trail Of Tears,/trte/,National Historic Trail,"AL,AR,GA,IL,KY,MO,NC,OK,TN ",North Carolina
+Wright Brothers,/wrbr/,National Memorial,"Kill Devil Hills, NC ",North Carolina
+Fort Union Trading Post,/fous/,National Historic Site,"Two States: MT,ND ",North Dakota
+Knife River Indian Villages,/knri/,National Historic Site,"Stanton, ND ",North Dakota
+Lewis & Clark,/lecl/,National Historic Trail,"Sixteen States: IA,ID,IL,IN,KS,KY,MO,MT,NE,ND,OH,OR,PA,SD,WA,WV ",North Dakota
+North Country,/noco/,National Scenic Trail,"Eight States - Vermont to North Dakota MI,MN,ND,NY,OH,PA,VT,WI ",North Dakota
+Theodore Roosevelt,/thro/,National Park,"Medora, ND (South Unit). The North Unit is located 15 miles south of Watford City, ND ",North Dakota
+American Memorial,/amme/,Park,"Saipan, MP ",Northern Mariana Islands
+Charles Young Buffalo Soldiers,/chyo/,National Monument,"Xenia, OH ",Ohio
+Cuyahoga Valley,/cuva/,National Park,"Cleveland and Akron, OH ",Ohio
+Dayton Aviation Heritage,/daav/,National Historical Park,"Dayton, OH ",Ohio
+First Ladies,/fila/,National Historic Site,"Canton, OH ",Ohio
+Hopewell Culture,/hocu/,National Historical Park,"Chillicothe, OH ",Ohio
+James A Garfield,/jaga/,National Historic Site,"Mentor, OH ",Ohio
+Lewis & Clark,/lecl/,National Historic Trail,"Sixteen States: IA,ID,IL,IN,KS,KY,MO,MT,NE,ND,OH,OR,PA,SD,WA,WV ",Ohio
+North Country,/noco/,National Scenic Trail,"Eight States - Vermont to North Dakota MI,MN,ND,NY,OH,PA,VT,WI ",Ohio
+Perry's Victory & International Peace,/pevi/,Memorial,"Put-in-Bay, OH ",Ohio
+William Howard Taft,/wiho/,National Historic Site,"Cincinnati, OH ",Ohio
+Butterfield Overland,/buov/,National Historic Trail,"MO, AR, OK, TX, NM, AZ, CA ",Oklahoma
+Chickasaw,/chic/,National Recreation Area,"Sulphur, OK ",Oklahoma
+Fort Smith,/fosm/,National Historic Site,"Fort Smith, AR,OK ",Oklahoma
+Oklahoma City,/okci/,National Memorial,"Oklahoma City, OK ",Oklahoma
+Santa Fe,/safe/,National Historic Trail,"CO,KS,MO,NM,OK ",Oklahoma
+Trail Of Tears,/trte/,National Historic Trail,"AL,AR,GA,IL,KY,MO,NC,OK,TN ",Oklahoma
+Washita Battlefield,/waba/,National Historic Site,"Cheyenne, OK ",Oklahoma
+California,/cali/,National Historic Trail,"Various States CA,CO,ID,KS,MO,NE,NV,OR,UT,WY ",Oregon
+Crater Lake,/crla/,National Park,"Crater Lake, OR ",Oregon
+Fort Vancouver,/fova/,National Historic Site,"Vancouver, OR,WA ",Oregon
+Ice Age Floods,/iafl/,National Geologic Trail,"WA,OR,ID,MT ",Oregon
+John Day Fossil Beds,/joda/,National Monument,"Kimberly, OR ",Oregon
+Lewis & Clark,/lecl/,National Historic Trail,"Sixteen States: IA,ID,IL,IN,KS,KY,MO,MT,NE,ND,OH,OR,PA,SD,WA,WV ",Oregon
+Lewis and Clark,/lewi/,National Historical Park,"Long Beach to Cannon Beach, OR,WA ",Oregon
+Nez Perce,/nepe/,National Historical Park,"four states ID,MT,OR,WA ",Oregon
+Oregon,/oreg/,National Historic Trail,"Various States ID,KS,MO,NE,OR,WA,WY ",Oregon
+Oregon Caves,/orca/,National Monument & Preserve,"Cave Junction, OR ",Oregon
+Allegheny Portage Railroad,/alpo/,National Historic Site,"Gallitzin, PA ",Pennsylvania
+Appalachian,/appa/,National Scenic Trail,"Maine to Georgia, CT,GA,MA,MD,ME,NC,NH,NJ,NY,PA,TN,VA,VT,WV ",Pennsylvania
+Captain John Smith Chesapeake,/cajo/,National Historic Trail,"Various States VA,MD,DE,DC,PA,NY ",Pennsylvania
+Carlisle Federal Indian Boarding School,/cibs/,National Monument,PA ,Pennsylvania
+Chesapeake Bay,/cbpo/,,"Chesapeake Bay Watershed, DC,DE,MD,NY,PA,VA,WV ",Pennsylvania
+Delaware Water Gap,/dewa/,National Recreation Area,"HQ in Bushkill PA; the park is along the Delaware River in the states of NJ,PA ",Pennsylvania
+Edgar Allan Poe,/edal/,National Historic Site,"Philadelphia, PA ",Pennsylvania
+Eisenhower,/eise/,National Historic Site,"Gettysburg, PA ",Pennsylvania
+First State,/frst/,National Historical Park,"DE,PA ",Pennsylvania
+Flight 93,/flni/,National Memorial,"Shanksville, PA ",Pennsylvania
+Fort Necessity,/fone/,National Battlefield,"Farmington, PA ",Pennsylvania
+Friendship Hill,/frhi/,National Historic Site,"Point Marion, PA ",Pennsylvania
+Gettysburg,/gett/,National Military Park,"Gettysburg, PA ",Pennsylvania
+Gloria Dei Church,/glde/,National Historic Site,"Philadelphia, PA ",Pennsylvania
+Hopewell Furnace,/hofu/,National Historic Site,"Elverson, PA ",Pennsylvania
+Independence,/inde/,National Historical Park,"Philadelphia, PA ",Pennsylvania
+Johnstown Flood,/jofl/,National Memorial,"South Fork, PA ",Pennsylvania
+Lewis & Clark,/lecl/,National Historic Trail,"Sixteen States: IA,ID,IL,IN,KS,KY,MO,MT,NE,ND,OH,OR,PA,SD,WA,WV ",Pennsylvania
+Lower Delaware,/lode/,National Wild and Scenic River,"PA,NJ ",Pennsylvania
+North Country,/noco/,National Scenic Trail,"Eight States - Vermont to North Dakota MI,MN,ND,NY,OH,PA,VT,WI ",Pennsylvania
+Potomac Heritage,/pohe/,National Scenic Trail,"the corridor between the Chesapeake Bay and the Allegheny Highlands, DC,MD,PA,VA ",Pennsylvania
+Steamtown,/stea/,National Historic Site,"Scranton, PA ",Pennsylvania
+Thaddeus Kosciuszko,/thko/,National Memorial,"Philadelphia, PA ",Pennsylvania
+Upper Delaware,/upde/,Scenic & Recreational River,"Pike and Wayne (PA) and Delaware, Orange and Sullivan (NY) counties along the Delaware River, NY,PA ",Pennsylvania
+Valley Forge,/vafo/,National Historical Park,"Valley Forge, PA ",Pennsylvania
+Washington-Rochambeau Revolutionary Route,/waro/,National Historic Trail,"MA,RI,CT,NY,NJ,PA,DE,MD,VA,DC ",Pennsylvania
+San Juan,/saju/,National Historic Site,"San Juan, PR ",Puerto Rico
+Blackstone River Valley,/blrv/,National Historical Park,"RI,MA ",Rhode Island
+Roger Williams,/rowi/,National Memorial,"Providence, RI ",Rhode Island
+Touro Synagogue,/tosy/,National Historic Site,"Newport, RI ",Rhode Island
+Washington-Rochambeau Revolutionary Route,/waro/,National Historic Trail,"MA,RI,CT,NY,NJ,PA,DE,MD,VA,DC ",Rhode Island
+Charles Pinckney,/chpi/,National Historic Site,"Mt. Pleasant, SC ",South Carolina
+Congaree,/cong/,National Park,"Hopkins, SC ",South Carolina
+Cowpens,/cowp/,National Battlefield,"Chesnee, SC ",South Carolina
+Fort Sumter and Fort Moultrie,/fosu/,National Historical Park,"Charleston Harbor, SC ",South Carolina
+Kings Mountain,/kimo/,National Military Park,"Blacksburg, SC ",South Carolina
+Ninety Six,/nisi/,National Historic Site,"Ninety Six, SC ",South Carolina
+Overmountain Victory,/ovvi/,National Historic Trail,"NC,SC,TN,VA ",South Carolina
+Reconstruction Era,/reer/,National Historical Park,SC ,South Carolina
+Badlands,/badl/,National Park,"Southwestern, SD ",South Dakota
+Jewel Cave,/jeca/,National Monument,"Custer, SD ",South Dakota
+Lewis & Clark,/lecl/,National Historic Trail,"Sixteen States: IA,ID,IL,IN,KS,KY,MO,MT,NE,ND,OH,OR,PA,SD,WA,WV ",South Dakota
+Minuteman Missile,/mimi/,National Historic Site,"Southwestern , SD ",South Dakota
+Missouri,/mnrr/,National Recreational River,"Yankton, SD,NE ",South Dakota
+Mount Rushmore,/moru/,National Memorial,"Keystone, SD ",South Dakota
+Wind Cave,/wica/,National Park,"Hot Springs, SD ",South Dakota
+Andrew Johnson,/anjo/,National Historic Site,"Greeneville, TN ",Tennessee
+Appalachian,/appa/,National Scenic Trail,"Maine to Georgia, CT,GA,MA,MD,ME,NC,NH,NJ,NY,PA,TN,VA,VT,WV ",Tennessee
+Big South Fork,/biso/,National River & Recreation Area,"Oneida, KY,TN ",Tennessee
+Chickamauga & Chattanooga,/chch/,National Military Park,"Fort Oglethorpe, GA,TN ",Tennessee
+Cumberland Gap,/cuga/,National Historical Park,"Middlesboro, KY,TN,VA ",Tennessee
+Fort Donelson,/fodo/,National Battlefield,"Dover, KY,TN ",Tennessee
+Great Smoky Mountains,/grsm/,National Park,"the states of NC,TN ",Tennessee
+Manhattan Project,/mapr/,National Historical Park,"Manhattan Project National Historical Park, NM,WA,TN ",Tennessee
+Natchez Trace,/natr/,Parkway,"the states of AL,MS,TN ",Tennessee
+Natchez Trace,/natt/,National Scenic Trail,"Tupelo, AL,MS,TN ",Tennessee
+Obed,/obed/,Wild & Scenic River,"Wartburg, TN ",Tennessee
+Overmountain Victory,/ovvi/,National Historic Trail,"NC,SC,TN,VA ",Tennessee
+Shiloh,/shil/,National Military Park,"Shiloh, TN,MS ",Tennessee
+Stones River,/stri/,National Battlefield,"Murfreesboro, TN ",Tennessee
+Trail Of Tears,/trte/,National Historic Trail,"AL,AR,GA,IL,KY,MO,NC,OK,TN ",Tennessee
+Alibates Flint Quarries,/alfl/,National Monument,"Fritch, TX ",Texas
+Amistad,/amis/,National Recreation Area,"Del Rio, TX ",Texas
+Big Bend,/bibe/,National Park,"The big bend of the Rio Grande, TX ",Texas
+Big Thicket,/bith/,National Preserve,"Beaumont, TX ",Texas
+Blackwell School,/blsc/,National Historic Site,TX ,Texas
+Butterfield Overland,/buov/,National Historic Trail,"MO, AR, OK, TX, NM, AZ, CA ",Texas
+Chamizal,/cham/,National Memorial,"El Paso, TX ",Texas
+El Camino Real de los Tejas,/elte/,National Historic Trail,"Various States TX,LA ",Texas
+El Camino Real de Tierra Adentro,/elca/,National Historic Trail,"NM,TX ",Texas
+Fort Davis,/foda/,National Historic Site,"Fort Davis, TX ",Texas
+Guadalupe Mountains,/gumo/,National Park,"Salt Flat, TX ",Texas
+Lake Meredith,/lamr/,National Recreation Area,"Fritch, TX ",Texas
+Lyndon B Johnson,/lyjo/,National Historical Park,"Johnson City, TX ",Texas
+Padre Island,/pais/,National Seashore,"Corpus Christi, TX ",Texas
+Palo Alto Battlefield,/paal/,National Historical Park,"Brownsville, TX ",Texas
+Rio Grande,/rigr/,Wild & Scenic River,"Southwest Texas, TX ",Texas
+San Antonio Missions,/saan/,National Historical Park,"San Antonio, TX ",Texas
+Waco Mammoth,/waco/,National Monument,"Waco, TX ",Texas
+Arches,/arch/,National Park,"Moab, UT ",Utah
+Bryce Canyon,/brca/,National Park,"Bryce Canyon, UT ",Utah
+California,/cali/,National Historic Trail,"Various States CA,CO,ID,KS,MO,NE,NV,OR,UT,WY ",Utah
+Canyonlands,/cany/,National Park,"Moab, UT ",Utah
+Capitol Reef,/care/,National Park,"Torrey, UT ",Utah
+Cedar Breaks,/cebr/,National Monument,"Cedar City, UT ",Utah
+Dinosaur,/dino/,National Monument,"Vernal, Utah & Dinosaur, Colorado, CO,UT ",Utah
+Glen Canyon,/glca/,National Recreation Area,"Glen Canyon National Recreation Area, AZ,UT ",Utah
+Golden Spike,/gosp/,National Historical Park,"Brigham City, UT ",Utah
+Hovenweep,/hove/,National Monument,"Blanding, Utah & Cortez, Colorado, CO,UT ",Utah
+Mormon Pioneer,/mopi/,National Historic Trail,"Various States IL,IA,NE,UT,WY ",Utah
+Natural Bridges,/nabr/,National Monument,"Blanding, UT ",Utah
+Old Spanish,/olsp/,National Historic Trail,"AZ,CA,CO,NV,NM,UT ",Utah
+Pony Express,/poex/,National Historic Trail,"Various States CA,CO,KS,MO,NE,NV,UT,WY ",Utah
+Rainbow Bridge,/rabr/,National Monument,"Rainbow Bridge National Monument, UT ",Utah
+Timpanogos Cave,/tica/,National Monument,"American Fork, UT ",Utah
+Zion,/zion/,National Park,"Springdale, UT ",Utah
+Appalachian,/appa/,National Scenic Trail,"Maine to Georgia, CT,GA,MA,MD,ME,NC,NH,NJ,NY,PA,TN,VA,VT,WV ",Vermont
+Marsh - Billings - Rockefeller,/mabi/,National Historical Park,"Woodstock, VT ",Vermont
+North Country,/noco/,National Scenic Trail,"Eight States - Vermont to North Dakota MI,MN,ND,NY,OH,PA,VT,WI ",Vermont
+Buck Island Reef,/buis/,National Monument,"St. Croix, VI ",Virgin Islands
+Christiansted,/chri/,National Historic Site,"St. Croix, VI ",Virgin Islands
+Salt River Bay,/sari/,National Historical Park and Ecological Preserve,"St. Croix, VI ",Virgin Islands
+Virgin Islands,/viis/,National Park,"St.John, VI ",Virgin Islands
+Virgin Islands Coral Reef,/vicr/,National Monument,"St. John, VI ",Virgin Islands
+Appalachian,/appa/,National Scenic Trail,"Maine to Georgia, CT,GA,MA,MD,ME,NC,NH,NJ,NY,PA,TN,VA,VT,WV ",Virginia
+Appomattox Court House,/apco/,National Historical Park,"Appomattox, VA ",Virginia
+"Arlington House, The Robert  E. Lee Memorial",/arho/,,"Arlington, VA ",Virginia
+Assateague Island,/asis/,National Seashore,"MD,VA ",Virginia
+Blue Ridge,/blri/,Parkway,"Blue Ridge Mountains of Virginia and North Carolina, NC,VA ",Virginia
+Booker T Washington,/bowa/,National Monument,"Hardy, VA ",Virginia
+Cape Henry Memorial,/came/,Part of Colonial National Historical Park,"Fort Story, VA ",Virginia
+Captain John Smith Chesapeake,/cajo/,National Historic Trail,"Various States VA,MD,DE,DC,PA,NY ",Virginia
+Cedar Creek & Belle Grove,/cebe/,National Historical Park,"Middletown and Strasburg, VA ",Virginia
+Chesapeake Bay,/cbpo/,,"Chesapeake Bay Watershed, DC,DE,MD,NY,PA,VA,WV ",Virginia
+Civil War Defenses of Washington,/cwdw/,,"Washington, DC,MD,VA ",Virginia
+Colonial,/colo/,National Historical Park,"Jamestown and Yorktown, VA ",Virginia
+Cumberland Gap,/cuga/,National Historical Park,"Middlesboro, KY,TN,VA ",Virginia
+Fort Monroe,/fomr/,National Monument,"Fort Monroe, VA ",Virginia
+Fredericksburg & Spotsylvania,/frsp/,National Military Park,"Fredericksburg, VA ",Virginia
+George Washington,/gwmp/,Memorial Parkway,"DC,MD,VA ",Virginia
+George Washington Birthplace,/gewa/,National Monument,"Westmoreland County, VA ",Virginia
+Great Falls,/grfa/,Park,"McLean, VA ",Virginia
+Green Springs,/grsp/,,"Louisa County, VA ",Virginia
+Harpers Ferry,/hafe/,National Historical Park,"Harpers Ferry, WV,VA,MD ",Virginia
+Historic Jamestowne,/jame/,Part of Colonial National Historical Park,"James City County, VA ",Virginia
+Maggie L Walker,/mawa/,National Historic Site,"Richmond, VA ",Virginia
+Manassas,/mana/,National Battlefield Park,"Manassas, VA ",Virginia
+Overmountain Victory,/ovvi/,National Historic Trail,"NC,SC,TN,VA ",Virginia
+Petersburg,/pete/,National Battlefield,"Petersburg, VA ",Virginia
+Potomac Heritage,/pohe/,National Scenic Trail,"the corridor between the Chesapeake Bay and the Allegheny Highlands, DC,MD,PA,VA ",Virginia
+Prince William Forest,/prwi/,Park,"Triangle, VA ",Virginia
+Richmond,/rich/,National Battlefield Park,"Richmond, VA ",Virginia
+Shenandoah,/shen/,National Park,"the Blue Ridge Mountains near Luray, VA ",Virginia
+Star-Spangled Banner,/stsp/,National Historic Trail,"DC,MD,VA ",Virginia
+Washington-Rochambeau Revolutionary Route,/waro/,National Historic Trail,"MA,RI,CT,NY,NJ,PA,DE,MD,VA,DC ",Virginia
+Wolf Trap National Park for the Performing Arts,/wotr/,,"Vienna, VA ",Virginia
+Yorktown Battlefield,/york/,Part of Colonial National Historical Park,"Yorktown, VA ",Virginia
+Ebey's Landing,/ebla/,National Historical Reserve,"Coupeville, WA ",Washington
+Fort Vancouver,/fova/,National Historic Site,"Vancouver, OR,WA ",Washington
+Ice Age Floods,/iafl/,National Geologic Trail,"WA,OR,ID,MT ",Washington
+Klondike Gold Rush - Seattle Unit,/klse/,National Historical Park,"Seattle, WA ",Washington
+Lake Roosevelt,/laro/,National Recreation Area,"the Canadian border going to Coulee Dam along the Columbia River, WA ",Washington
+Lewis & Clark,/lecl/,National Historic Trail,"Sixteen States: IA,ID,IL,IN,KS,KY,MO,MT,NE,ND,OH,OR,PA,SD,WA,WV ",Washington
+Lewis and Clark,/lewi/,National Historical Park,"Long Beach to Cannon Beach, OR,WA ",Washington
+Manhattan Project,/mapr/,National Historical Park,"Manhattan Project National Historical Park, NM,WA,TN ",Washington
+Minidoka,/miin/,National Historic Site,"Jerome, ID,WA ",Washington
+Mount Rainier,/mora/,National Park,"Ashford, Enumclaw, Packwood, Wilkeson, WA ",Washington
+Nez Perce,/nepe/,National Historical Park,"four states ID,MT,OR,WA ",Washington
+North Cascades,/noca/,National Park,"Marblemount, WA ",Washington
+Olympic,/olym/,National Park,"Port Angeles, WA ",Washington
+Oregon,/oreg/,National Historic Trail,"Various States ID,KS,MO,NE,OR,WA,WY ",Washington
+San Juan Island,/sajh/,National Historical Park,"Friday Harbor, WA ",Washington
+Whitman Mission,/whmi/,National Historic Site,"Walla Walla, WA ",Washington
+Wing Luke Museum,/wing/,Affiliated Area,"Seattle, WA ",Washington
+Appalachian,/appa/,National Scenic Trail,"Maine to Georgia, CT,GA,MA,MD,ME,NC,NH,NJ,NY,PA,TN,VA,VT,WV ",West Virginia
+Bluestone,/blue/,National Scenic River,"Athens, Pipestem, and Hinton, WV ",West Virginia
+Chesapeake & Ohio Canal,/choh/,National Historical Park,"Potomac River, DC,MD,WV ",West Virginia
+Chesapeake Bay,/cbpo/,,"Chesapeake Bay Watershed, DC,DE,MD,NY,PA,VA,WV ",West Virginia
+Gauley River,/gari/,National Recreation Area,"Summersville, WV ",West Virginia
+Harpers Ferry,/hafe/,National Historical Park,"Harpers Ferry, WV,VA,MD ",West Virginia
+Lewis & Clark,/lecl/,National Historic Trail,"Sixteen States: IA,ID,IL,IN,KS,KY,MO,MT,NE,ND,OH,OR,PA,SD,WA,WV ",West Virginia
+New River Gorge,/neri/,National Park & Preserve,"Hinton, Beckley, Glen Jean, and Fayetteville, WV ",West Virginia
+Apostle Islands,/apis/,National Lakeshore,"Lake Superior, WI ",Wisconsin
+Ice Age,/iatr/,National Scenic Trail,"Madison, WI ",Wisconsin
+North Country,/noco/,National Scenic Trail,"Eight States - Vermont to North Dakota MI,MN,ND,NY,OH,PA,VT,WI ",Wisconsin
+Saint Croix,/sacn/,National Scenic Riverway,"Saint Croix Falls, WI,MN ",Wisconsin
+Bighorn Canyon,/bica/,National Recreation Area,"Fort Smith, MT,WY ",Wyoming
+California,/cali/,National Historic Trail,"Various States CA,CO,ID,KS,MO,NE,NV,OR,UT,WY ",Wyoming
+Devils Tower,/deto/,National Monument,"Devils Tower, WY ",Wyoming
+Fort Laramie,/fola/,National Historic Site,"Southeast Wyoming, WY ",Wyoming
+Fossil Butte,/fobu/,National Monument,"Kemmerer, WY ",Wyoming
+Grand Teton,/grte/,National Park,"Moose, WY ",Wyoming
+Mormon Pioneer,/mopi/,National Historic Trail,"Various States IL,IA,NE,UT,WY ",Wyoming
+Oregon,/oreg/,National Historic Trail,"Various States ID,KS,MO,NE,OR,WA,WY ",Wyoming
+Pony Express,/poex/,National Historic Trail,"Various States CA,CO,KS,MO,NE,NV,UT,WY ",Wyoming
+Yellowstone,/yell/,National Park,"Yellowstone National Park, ID,MT,WY ",Wyoming
